@@ -1,5 +1,5 @@
 common:
-  img_topic: "/camera/left/jpeg"
+  img_topic: "/camera/left/jpeg_raw"
   lid_topic: "/livox/lidar"
   imu_topic: "/livox/imu"
   img_en: 1
